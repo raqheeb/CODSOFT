@@ -1,7 +1,7 @@
 
 # CODSOFT Internship – Task 1: SMS Spam Detection  
 
-This project is part of my **CODSOFT Internship** where I completed **Task 4: Spam SMS Detection** using Python and Machine Learning.  
+This project is part of my **CODSOFT Internship** where I completed **Task 1: Spam SMS Detection** using Python and Machine Learning.  
 
 ## 📌 Project Overview
 The goal is to classify SMS messages as **spam** or **ham (legitimate)** using NLP techniques and a Machine Learning model.  
