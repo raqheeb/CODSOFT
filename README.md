@@ -1,5 +1,5 @@
 
-# CODSOFT Internship – Task 4: SMS Spam Detection  
+# CODSOFT Internship – Task 1: SMS Spam Detection  
 
 This project is part of my **CODSOFT Internship** where I completed **Task 4: Spam SMS Detection** using Python and Machine Learning.  
 
